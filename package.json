@@ -1,0 +1,16 @@
+{
+  "name": "sri-lanka-tourisum",
+  "version": "1.0.0",
+  "description": "This web application on Sri Lanka tourism.",
+  "main": "index.js",
+  "homepage": "https://dilusha07.github.io/Sri-Lanka-Tourism",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Dilusha Sandaruwani",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
